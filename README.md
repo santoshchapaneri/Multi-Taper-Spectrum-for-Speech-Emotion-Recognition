@@ -1,4 +1,4 @@
-# MultiTaperSpectrum
+# Multi-Taper-Spectrum-for-Speech-Emotion-Recognition
 
 In this project, the performance of multi-taper spectral estimate is investigated relative to conventional 
 single taper estimate for the application of emotion recognition fromspeech signals. 
